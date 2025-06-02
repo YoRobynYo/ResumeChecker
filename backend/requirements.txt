@@ -1,0 +1,25 @@
+# Backend Dependencies
+
+# Core Framework & LangChain
+flask         # Web framework (can be replaced with fastapi)
+langchain
+langchain-community
+langchain-core
+langchain-postgres # For pgvector integration
+langchain-ollama   # For Ollama model integration
+
+# Database Driver
+psycopg2-binary # PostgreSQL driver
+
+# Document Loaders
+pypdf         # For loading PDF files
+python-docx   # For loading DOCX files
+
+# Environment Variables (Optional but good practice)
+python-dotenv
+
+# Other utilities (might be needed depending on implementation)
+# numpy # Often a dependency for embedding models or vector operations
+
+
+Flask-CORS
