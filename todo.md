@@ -2,8 +2,6 @@
 
 ## when starting the app do the following 
 
-## when starting the app do the following 
-
 1. in this app opened in vs code 
 2. you need to open the app then open 4 terminals 
 3. terminal 1 - cd backend  > source venv/bin/activate 
